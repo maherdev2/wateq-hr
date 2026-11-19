@@ -6,9 +6,9 @@
 
 | لوحة التحكم النهارية | لوحة التحكم الليلية |
 |---|---|
-| ![لوحة التحكم النهارية](docs/screenshots/dashboard-light.png) | ![لوحة التحكم الليلية](docs/screenshots/dashboard-dark.png) |
+| ![لوحة التحكم النهارية](docs/screenshots/dashboard-light.jpg) | ![لوحة التحكم الليلية](docs/screenshots/dashboard-dark.jpg) |
 
-![صفحة الدخول](docs/screenshots/login.png)
+![صفحة الدخول](docs/screenshots/login.jpg)
 
 ## المتطلبات
 
