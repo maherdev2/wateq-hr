@@ -4,9 +4,9 @@
 
 ## صور من النظام
 
-| لوحة التحكم النهارية | لوحة التحكم الليلية |
+| لوحة التحكم النهارية كاملة | لوحة التحكم الليلية كاملة |
 |---|---|
-| ![لوحة التحكم النهارية](docs/screenshots/dashboard-light.jpg) | ![لوحة التحكم الليلية](docs/screenshots/dashboard-dark.jpg) |
+| ![لوحة التحكم النهارية كاملة](docs/screenshots/dashboard-light.jpg) | ![لوحة التحكم الليلية كاملة](docs/screenshots/dashboard-dark.jpg) |
 
 ![صفحة الدخول](docs/screenshots/login.jpg)
 

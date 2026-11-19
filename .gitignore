@@ -4,6 +4,7 @@
 /storage/mysql-root.pass
 /storage/mysql-datadir.txt
 /storage/mysql-data/*
+/storage/mysql-runtime/
 !/storage/uploads/.gitkeep
 !/storage/backups/.gitkeep
 !/storage/logs/.gitkeep
